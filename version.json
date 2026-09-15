@@ -1,6 +1,6 @@
 {
-  "versionName": "2.1.1-test",
-  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v2.1.0/LP-Parcel-Assistant-v2.1.0.apk",
+  "versionCode": 4,
   "notes": "测试更新提示，正常版本会写更新内容",
-  "versionCode": 4
+  "versionName": "2.1.1-test",
+  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v2.1.0/LP-Parcel-Assistant-v2.1.0.apk"
 }
