@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "2.1.0",
+  "notes": "1. 应用名改为 LP不收取件码，新增自制图标。2. 新增启动弹窗与不再显示功能。3. 修复平台识别：拼多多包裹放在菜鸟驿站时不再跳错。4. 新增换 App 按钮与取件后自动清理。5. 新增应用内更新检查。",
+  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v2.1.0/LP-Parcel-Assistant-v2.1.0.apk"
+}
