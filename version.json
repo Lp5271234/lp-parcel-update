@@ -1,6 +1,6 @@
 {
-  "notes": "1. 应用名改为 LP不收取件码，新增自制图标。2. 新增启动弹窗与不再显示功能。3. 修复平台识别：拼多多包裹放在菜鸟驿站时不再跳错。4. 新增换 App 按钮与取件后自动清理。5. 新增应用内更新检查。",
-  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v2.1.0/LP-Parcel-Assistant-v2.1.0.apk",
-  "versionCode": 3,
-  "versionName": "2.1.0"
+  "versionName": "2.2.0",
+  "versionCode": 4,
+  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v2.2.0/LP-Parcel-Assistant-v2.2.0.apk",
+  "notes": "1. 增强取件码识别，支持取件号、提货码、货架码等更多通知格式。2. 通知文本支持多行、消息样式和 ticker 等来源，减少漏抓。3. 新增未识别通知记录，可在更多设置里复制反馈。4. 新增自启动引导与开机自动重绑，提升收码稳定性。5. 新增更多设置页：当前版本号、白色/黑色主题切换。6. 设置页改为关于LP。"
 }
