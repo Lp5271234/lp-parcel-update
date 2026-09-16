@@ -1,6 +1,6 @@
 {
-  "versionName": "2.2.0",
-  "versionCode": 4,
-  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v2.2.0/LP-Parcel-Assistant-v2.2.0.apk",
-  "notes": "1. 增强取件码识别，支持取件号、提货码、货架码等更多通知格式。2. 通知文本支持多行、消息样式和 ticker 等来源，减少漏抓。3. 新增未识别通知记录，可在更多设置里复制反馈。4. 新增自启动引导与开机自动重绑，提升收码稳定性。5. 新增更多设置页：当前版本号、白色/黑色主题切换。6. 设置页改为关于LP。"
+  "versionName": "2.2.1",
+  "notes": "1. 修复驿站名称显示，去掉“已到”等多余前缀。2. 取件码识别增强：支持取件号、提货码、货架码。3. 通知来源扩展，减少漏抓。4. 新增未识别通知留档，可在更多设置里复制反馈。",
+  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v2.2.1/LP-Parcel-Assistant-v2.2.1.apk",
+  "versionCode": 5
 }
