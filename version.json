@@ -1,6 +1,6 @@
 {
-  "notes": "3.0 更新：新增已取件记录查看与恢复；地址分类支持一键复制全部取件码；主题支持跟随系统；解析能力增强（锚点词、码型、地点、负向词、破折号标准化、发件方优先）；过滤应用商店等噪音通知；页面动画与滚动流畅度优化。",
-  "versionCode": 7,
-  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v3.0.0/LP-Parcel-Assistant-v3.0.0.apk",
-  "versionName": "3.0.0"
+  "versionCode": 8,
+  "notes": "3.1 更新：新增“快递超过 3 天未取”提醒；取件码卡片支持左滑快捷操作；右下角加号改为展开快捷面板并带旋转动画；更多设置改成圆形展开转场；取件码识别增强（支持全角括号取件码、凭码到件、兔喜/妈妈驿站等）；过滤中转、交易、签到等无关通知；界面去掉应用名。",
+  "url": "https://gh-proxy.com/https://github.com/Lp5271234/lp-parcel-update/releases/download/v3.1.0/LP-Parcel-Assistant-v3.1.0.apk",
+  "versionName": "3.1.0"
 }
